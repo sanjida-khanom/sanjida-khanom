@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=22&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Sanjida+Khanom;Cybersecurity+Research+Enthusiast;Focused+on+AI-driven+Threat+Detection;Exploring+NIDS,+GNN,+and+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=22&center=true&vCenter=true&width=750&lines=Hi,+I'm+Sanjida+Khanom;CSE+Student+and+Cybersecurity+Researcher;Exploring+Machine+Learning+for+Security;Focused+on+Real-world+Cyber+Threat+Detection" />
 </p>
 
 # Sanjida Khanom
