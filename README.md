@@ -37,17 +37,17 @@ My work combines **machine learning, network security, and real-world system dev
 
 ##  Technical Skills
 
-**Programming Languages**
+**Programming Languages:**
 Python • C • C++ • Java • C#
 
-**Cybersecurity Tools**
+**Cybersecurity Tools:**
 Wireshark • Burp Suite • Nmap • SQLMap • Hydra • Netcat • Ettercap
 Kali Linux • MITRE ATT&CK • MITRE ATLAS
 
-**Machine Learning & Data Science**
+**Machine Learning & Data Science:**
 NumPy • Pandas • Scikit-learn • TensorFlow • PyTorch • OpenCV • NLTK
 
-**Web & Systems Development**
+**Web & Systems Development:**
 React • Next.js • Express.js • Spring MVC • MongoDB
 
 ---
@@ -61,7 +61,7 @@ React • Next.js • Express.js • Spring MVC • MongoDB
 
 ##  Experience
 
-* Teaching Assistant, BUBT (CSE Department)
+* Former Teaching Assistant, BUBT (CSE Department)
 * Educational Researcher, Cyber Research Hub
 * Research Assistant Intern, Peer Research Lab
 
