@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=185&section=header&text=Sanjida%20Khanom&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Cybersecurity%20Research&descSize=16&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=185&section=header&text=Sanjida%20Khanom&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Cybersecurity%20Research&descSize=20&descAlignY=62" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00ADB5&size=24&center=true&vCenter=true&width=800&lines=CSE+Graduate+%7C+CGPA+4.00;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+Explainable+AI;Adversarial+ML+%E2%80%A2+Cyber+Threat+Detection;Turning+research+into+deployable+systems." />
 
