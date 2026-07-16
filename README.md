@@ -18,7 +18,7 @@
 
 <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-**Computer Science & Engineering graduate (CGPA 4.00)** from Bangladesh University of Business and Technology, working at the intersection of **Machine Learning, Deep Learning, and Cybersecurity**.
+**Computer Science & Engineering graduate from Bangladesh University of Business and Technology, working at the intersection of **Machine Learning, Deep Learning, and Cybersecurity**.
 
 My research spans **Natural Language Processing**, **Computer Vision for medical imaging**, **Explainable AI**, and **AI Security / Adversarial ML** — with a consistent emphasis on carrying models past the notebook into **reproducible pipelines and deployed applications**.
 
@@ -43,7 +43,7 @@ My research spans **Natural Language Processing**, **Computer Vision for medical
 - Transformer ensembles & knowledge distillation
 
 **Computer Vision**
-- Medical imaging (WBC, MRI, retinopathy)
+- Medical imaging (WBC, Oral Disease)
 - Attention mechanisms (CBAM, cross-modal fusion)
 - Grad-CAM & visual explainability
 
@@ -70,7 +70,6 @@ My research spans **Natural Language Processing**, **Computer Vision for medical
 
 | Project | Domain | Description |
 | :--- | :--- | :--- |
-| **DynamicFusionNet** | NLP · Hate Speech | Attention-weighted ensemble (BERT + XLM-R + DeBERTa) with dynamic cross-attention fusion, focal + supervised contrastive loss, distilled into a lightweight student — **91.51% accuracy** |
 | **HemaVision** | Medical CV | White blood cell classification (EfficientNetV2-B0 + CBAM) on Raabin-WBC with Grad-CAM explainability and Streamlit deployment |
 | **QuishNet** | Security · CV | Malicious QR code detection via ConvNeXtV2-Tiny + SwinV2-Tiny dual backbone with cross-modal attention fusion |
 | **Ransomware Detection** | Malware Analysis | Hybrid static/dynamic framework optimized with Adaptive Grey Wolf Optimizer (A-GWO) |
@@ -82,8 +81,7 @@ My research spans **Natural Language Processing**, **Computer Vision for medical
 
 ## 📝 Publications & Writing
 
-- 📄 Paper accepted — **ML4CS 2026**
-- 📄 Papers accepted at **IEEE conferences**; additional manuscripts under review at **Q1 journals**
+- 📄 Paper accepted — **8th International Conference on Machine Learning for Cyber Security 2026**
 - ✍️ Blog — [Malicious File Analysis (Wireshark + VirusTotal)](https://cms.cyberresearch.bubt.edu.bd/elementor-3094/)
 - ✍️ Ongoing technical writing on **MITRE ATLAS, adversarial ML, federated learning, and steganography detection**
 
@@ -124,8 +122,11 @@ My research spans **Natural Language Processing**, **Computer Vision for medical
 ## 🏆 Achievements
 
 - 🥇 **Dean's Award for Academic Excellence** — 2025
+- 🥉 **Research-Oriented Competitive 
+Coding Event 2026 (Organized by BUBT 
+Research Graduate School) ** — 3rd Position
 - 🥉 **BIUCTF 2026** — 6th Position
-- 🎓 **CGPA 4.00 / 4.00** — B.Sc. in CSE, BUBT
+
 
 ---
 
