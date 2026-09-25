@@ -269,8 +269,8 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjida-khanom&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjida-khanom&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 
 <br><br>
 
@@ -287,16 +287,17 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 </div>
 
 <details>
-<summary><b>Contribution graph and trophies</b></summary>
+<summary><b>Contribution graph and more stats</b></summary>
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjida-khanom&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&custom_title=Contribution%20Graph" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=sanjida-khanom&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
+<img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img height="170" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
 
