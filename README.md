@@ -18,7 +18,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## About Me
+<h2 align="center">About Me</h2>
 
 <table>
 <tr>
@@ -45,7 +45,7 @@ I build **agentic and retrieval-augmented AI systems**, test them against **prom
 </table>
 
 <details>
-<summary><b>More about me</b></summary>
+<summary align="center"><b>More about me</b></summary>
 <br>
 
 - **Previously:** Research Assistant Intern at Peer Research Lab, and Teaching Assistant in the CSE Department at BUBT for a full academic year
@@ -57,32 +57,32 @@ I build **agentic and retrieval-augmented AI systems**, test them against **prom
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Focus Areas
+<h2 align="center">Focus Areas</h2>
 
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
 **Agentic & Generative AI**
 
 RAG pipelines, hybrid retrieval, LLM agents with LangGraph
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
 **AI Security**
 
 Prompt injection, adversarial ML, model evasion, MITRE ATLAS
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
 **Cybersecurity**
 
 Ransomware, malicious URLs, network intrusion detection
 
 </td>
-<td width="25%" valign="top">
+<td width="25%" align="center" valign="top">
 
 **Machine & Deep Learning**
 
@@ -94,10 +94,12 @@ Explainable AI, graph and federated learning, medical vision
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Selected Projects
+<h2 align="center">Selected Projects</h2>
+
+<div align="center">
 
 | Project | Area | Highlight |
-| :--- | :--- | :--- |
+| :--- | :---: | :--- |
 | [**Enterprise Knowledge Assistant**](https://github.com/sanjida-khanom/enterprise-rag-agent-triage-langgraph) | Agentic AI · RAG | Hybrid retrieval with cited answers and a LangGraph agent |
 | [**RAG Prompt Injection Demo**](https://github.com/sanjida-khanom/RAG-injection-demo_MITRE_ATLAS_Application) | AI Security | Injection mapped end to end to MITRE ATLAS |
 | [**ML Classifier Evasion Demo**](https://github.com/sanjida-khanom/ML-evasion-demo_MITRE_ATLAS_Application) | AI Security | Detection 94% → 16% → 46% after defence |
@@ -105,8 +107,10 @@ Explainable AI, graph and federated learning, medical vision
 | [**Malicious URL Detection**](https://github.com/sanjida-khanom/Malicious-URL-Detection-Hierarchical-Multi-View-Graph-Learning-) | Cybersecurity · GNN | 98.91% threat isolation on 36,707 URLs |
 | [**HemaVision**](https://github.com/sanjida-khanom/HemaVision-WBC-Classification-XAI) | Deep Learning · XAI | 0.9976 Macro-AUC, accepted at IEEE CSDE 2026 |
 
+</div>
+
 <details>
-<summary><b>Project details and tech stack</b></summary>
+<summary align="center"><b>Project details and tech stack</b></summary>
 <br>
 
 **Enterprise Knowledge Assistant**<br>
@@ -136,7 +140,7 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 </details>
 
 <details>
-<summary><b>More projects</b></summary>
+<summary align="center"><b>More projects</b></summary>
 <br>
 
 | Project | Area | Description |
@@ -150,7 +154,7 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Publications
+<h2 align="center">Publications</h2>
 
 <div align="center">
 
@@ -161,16 +165,20 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 
 </div>
 
+<div align="center">
+
 | Accepted Paper | Venue |
-| :--- | :--- |
+| :--- | :---: |
 | Multi-LLM Consensus Framework for Evaluating Banking-Sector NIDS Coverage of MITRE ATT&CK | ML4CS 2026 · Springer LNCS |
 | Hybrid Static and Dynamic Ransomware Detection using A-GWO | ML4CS 2026 · Springer LNCS |
 | Hierarchical Multi-View Graph Learning for Malicious URL Detection | IEEE SPICSCON 2026 |
 | HemaVision: Explainable AI for White Blood Cell Classification | IEEE CSDE 2026 |
 | Explainable Meta-Learning for Air Quality Prediction | IEEE SPICSCON 2026 |
 
+</div>
+
 <details>
-<summary><b>Under review, published work and blogs</b></summary>
+<summary align="center"><b>Under review, published work and blogs</b></summary>
 <br>
 
 **Under Review**
@@ -189,7 +197,7 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -198,7 +206,7 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 </div>
 
 <details>
-<summary><b>Full tech stack by domain</b></summary>
+<summary align="center"><b>Full tech stack by domain</b></summary>
 <br>
 
 **Agentic & Generative AI**<br>
@@ -238,34 +246,44 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### Achievements
+<h3 align="center">Achievements</h3>
 
-- **Dean's Award for Academic Excellence**<br><sub>BUBT, Spring 2025</sub>
-- **3rd Position, Research-Oriented Competitive Coding 2026**<br><sub>BUBT Research Graduate School</sub>
-- **6th Position, BIUCTF 2026**<br><sub>Capture the Flag</sub>
-- **Google Certifications**<br><sub>AI for Research and Insights · AI Fundamentals</sub>
+**Dean's Award for Academic Excellence**<br><sub>BUBT, Spring 2025</sub>
+
+**3rd Position, Research-Oriented Competitive Coding 2026**<br><sub>BUBT Research Graduate School</sub>
+
+**6th Position, BIUCTF 2026**<br><sub>Capture the Flag</sub>
+
+**Google Certifications**<br><sub>AI for Research and Insights · AI Fundamentals</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### Leadership & Community
+<h3 align="center">Leadership & Community</h3>
 
-- **General Secretary**<br><sub>IEEE WIE BUBT Affinity Group</sub>
-- **Event Coordinator**<br><sub>IEEE BUBT Student Branch</sub>
-- **Organizer**<br><sub>Cybersecurity & Leadership Seminars</sub>
-- **Technical Volunteer & Room Coordinator**<br><sub>ICPC Asia Dhaka Regional</sub>
+**General Secretary**<br><sub>IEEE WIE BUBT Affinity Group</sub>
+
+**Event Coordinator**<br><sub>IEEE BUBT Student Branch</sub>
+
+**Organizer**<br><sub>Cybersecurity & Leadership Seminars</sub>
+
+**Technical Volunteer & Room Coordinator**<br><sub>ICPC Asia Dhaka Regional</sub>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## GitHub Activity
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
 
@@ -286,10 +304,6 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 
 </div>
 
-<details>
-<summary><b>Contribution graph and more stats</b></summary>
-<br>
-
 <div align="center">
 
 <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
@@ -300,8 +314,6 @@ Explainable white blood cell classification with an EfficientNetV2-B0 backbone a
 <img height="170" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
-
-</details>
 
 ---
 
